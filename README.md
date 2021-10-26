@@ -1,1 +1,1 @@
-# snake_game_unity
+Snake Game
