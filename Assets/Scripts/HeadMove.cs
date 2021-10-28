@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Move : MonoBehaviour
+public class HeadMove : MonoBehaviour
 {
     [SerializeField] private Rigidbody rb;
     private const float MoveSpeed = 7f;
